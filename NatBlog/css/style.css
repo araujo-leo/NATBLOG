@@ -1,0 +1,105 @@
+#natblog{
+    margin-bottom: 2%;
+    font-size: 20pt;
+}
+
+#nat{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #467302;
+    text-align: center;
+}
+#blog{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #f2f2f2;
+    
+}
+#cabeçalho{
+    background-color: rgb(12, 170, 12);
+    text-align: center;
+    padding: 2%;
+    margin-bottom: 2%;
+  
+}
+#linkscabeçalho{
+    margin: 10px;
+}
+#postagem-principal{
+    float: left;
+}
+#postagem-lateral{
+    float: right;
+}
+#area-lateral{
+    position: absolute;
+    right: 2%;
+    width: 240px;
+    background: #f2f2f2;
+}
+#rodape{
+    text-align: center;
+    clear: both;
+    width: 100%;
+    padding: 10px;
+    background-color: rgb(12, 170, 12);
+    margin: auto;
+
+}
+
+
+*{
+    padding: 0px;  
+    margin: 0px;
+}
+
+  
+img{
+    width: 100%;
+}
+h3{
+    color: #142615;
+    background: #497336;
+    padding: 5px;
+}
+h4{
+    background: rgb(12, 170, 12);
+}
+
+
+.postagem-lateral{
+    font-size: 0.9em;
+    padding: 5px;
+    border-bottom: 2px dotted #000;
+}
+.postagem{
+    width: 50%;
+    padding: 50px;
+    background-color: rgb(12, 170, 12);
+    margin: auto;
+    text-align: justify;
+    margin-bottom: 2%;
+}
+.recente{
+    width: 15%;
+    padding: 50px;
+    background-color: rgb(12, 170, 12);
+    margin: 0px;
+    text-align: justify;
+    float: right;
+}
+.a-branco{
+    text-decoration: none;
+    color: white;
+} 
+.a-branco:hover{
+    background-color: #467302;
+    
+}
+.a-preto{
+    text-decoration: none;
+    color: #000;
+}
+.a-preto:hover{
+    background-color: #467302;
+    color: #f2f2f2;
+}
+
